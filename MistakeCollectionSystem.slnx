@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="MistakeCollectionSystem.Core/MistakeCollectionSystem.Core.csproj" />
+    <Project Path="MistakeCollectionSystem.Infrastructure/MistakeCollectionSystem.Infrastructure.csproj" />
+    <Project Path="MistakeCollectionSystem.Shared/MistakeCollectionSystem.Shared.csproj" />
+    <Project Path="MistakeCollectionSystem/MistakeCollectionSystem.API.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="MistakeCollectionSystem.Tests/MistakeCollectionSystem.Tests.csproj" />
+  </Folder>
+</Solution>
